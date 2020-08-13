@@ -23,8 +23,46 @@ const SearchPage = () => {
                 fond of breaking apart toys and constructing music boxes,
                 Mooroo found that to him there was something more to the music boxes than their actual mechanical functioning,  "
       />
-      <hr/>
-      <VideoRow/>
+      <hr />
+      <VideoRow
+        title="(Iktiyaar) اختیار | Mooroo ke khyalaat"
+        views="2.3M Views"
+        timestamp="3 days ago"
+        subs="2.3M"
+        description="born in lahore to a muslim family, "
+        channel="Taimoor Salahuddin aka Mooroo"
+        image="https://i.pinimg.com/originals/dd/a1/2c/dda12c587120e5e4378a01f31e812672.jpg"
+      />
+
+      <VideoRow
+        title="(Iktiyaar) اختیار | Mooroo ke khyalaat"
+        views="2.3M Views"
+        timestamp="3 days ago"
+        subs="2.3M"
+        description="born in lahore to a muslim family, "
+        channel="Taimoor Salahuddin aka Mooroo"
+        image="https://i.pinimg.com/originals/dd/a1/2c/dda12c587120e5e4378a01f31e812672.jpg"
+      />
+
+      <VideoRow
+        title="(Iktiyaar) اختیار | Mooroo ke khyalaat"
+        views="2.3M Views"
+        timestamp="3 days ago"
+        subs="2.3M"
+        description="born in lahore to a muslim family, "
+        channel="Taimoor Salahuddin aka Mooroo"
+        image="https://i.pinimg.com/originals/dd/a1/2c/dda12c587120e5e4378a01f31e812672.jpg"
+      />
+
+      <VideoRow
+        title="(Iktiyaar) اختیار | Mooroo ke khyalaat"
+        views="2.3M Views"
+        timestamp="3 days ago"
+        subs="2.3M"
+        description="born in lahore to a muslim family, "
+        channel="Taimoor Salahuddin aka Mooroo"
+        image="https://i.pinimg.com/originals/dd/a1/2c/dda12c587120e5e4378a01f31e812672.jpg"
+      />
     </div>
   );
 };

@@ -13,11 +13,13 @@ const Header = () => {
     <div className="header">
       <div className="header__left">
         <MenuIcon />
+        <Link to="/">
         <img
           className="header__logo"
           src="https://upload.wikimedia.org/wikipedia/commons/9/98/YouTube_Logo.svg"
           alt=""
         />
+        </Link>
       </div>
 
       <div className="header__input">
