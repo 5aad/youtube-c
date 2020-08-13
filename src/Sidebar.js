@@ -11,7 +11,6 @@ import ThumbUpAltOutlinedIcon from "@material-ui/icons/ThumbUpAltOutlined";
 import WhatshotIcon from "@material-ui/icons/Whatshot";
 import HomeIcon from "@material-ui/icons/Home";
 import SubcriptionIcon from "@material-ui/icons/Subscriptions";
-import { Link } from "@material-ui/core";
 const Sidebar = () => {
   return (
     <div className="sidebar">
